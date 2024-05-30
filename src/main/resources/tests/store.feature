@@ -1,5 +1,6 @@
 Feature: Buy a phone
 
+  @regressionPack
   Scenario Outline: Buy a phone
     Given open application
     And user click on phones category
